@@ -1,0 +1,106 @@
+[
+  {
+    "n": 1,
+    "id": "2507.04136",
+    "url": "https://arxiv.org/abs/2507.04136",
+    "title": "A Technical Survey of Reinforcement Learning Techniques for Large Language Models",
+    "date": "2025-07-04",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2505.02686",
+    "url": "https://arxiv.org/abs/2505.02686",
+    "title": "Sailing by the Stars: A Survey on Reward Models and Learning Strategies for Learning from Rewards",
+    "date": "2025-06-12",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2508.16665",
+    "url": "https://huggingface.co/papers/2508.16665",
+    "title": "Trust but Verify! A Survey on Verification Design for Test-time Scaling",
+    "date": "2025-08-20",
+    "source": "hf-search"
+  },
+  {
+    "n": 4,
+    "id": "2505.14403",
+    "url": "https://huggingface.co/papers/2505.14403",
+    "title": "Unearthing Gems from Stones: Policy Optimization with Negative Sample Augmentation for LLM Reasoning",
+    "date": "2025-05-20",
+    "source": "hf-search"
+  },
+  {
+    "n": 5,
+    "id": "2026.acl-long.163.pdf",
+    "url": "https://aclanthology.org/2026.acl-long.163.pdf",
+    "title": "A Survey of Process Reward Models: From Outcome Signals to Process Supervisions for Large Language Models",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 6,
+    "id": "2505.04842",
+    "url": "https://huggingface.co/papers/2505.04842",
+    "title": "Putting the Value Back in RL: Better Test-Time Scaling by Unifying LLM Reasoners With Verifiers",
+    "date": "2025-05-07",
+    "source": "hf-search"
+  },
+  {
+    "n": 7,
+    "id": "2410.08146",
+    "url": "https://huggingface.co/papers/2410.08146",
+    "title": "Rewarding Progress: Scaling Automated Process Verifiers for LLM Reasoning",
+    "date": "2024-10-10",
+    "source": "hf-search"
+  },
+  {
+    "n": 8,
+    "id": "2509.07969",
+    "url": "https://huggingface.co/papers/2509.07969",
+    "title": "Mini-o3: Scaling Up Reasoning Patterns and Interaction Turns for Visual Search",
+    "date": "2025-09-09",
+    "source": "hf-search"
+  },
+  {
+    "n": 9,
+    "id": "2605.10344",
+    "url": "https://huggingface.co/papers/2605.10344",
+    "title": "TMAS: Scaling Test-Time Compute via Multi-Agent Synergy",
+    "date": "2026-05-11",
+    "source": "hf-search"
+  },
+  {
+    "n": 10,
+    "id": "2504.11456",
+    "url": "https://huggingface.co/papers/2504.11456",
+    "title": "DeepMath-103K: A Large-Scale, Challenging, Decontaminated, and Verifiable Mathematical Dataset for Advancing Reasoning",
+    "date": "2025-04-15",
+    "source": "hf-search"
+  },
+  {
+    "n": 11,
+    "id": "2507.12885",
+    "url": "https://huggingface.co/papers/2507.12885",
+    "title": "VAR-MATH: Probing True Mathematical Reasoning in LLMS via Symbolic Multi-Instance Benchmarks",
+    "date": "2026-01-05",
+    "source": "hf-search"
+  },
+  {
+    "n": 12,
+    "id": "2410.15115",
+    "url": "https://arxiv.org/abs/2410.15115",
+    "title": "Unraveling Reward Hacking in Process-Supervised Reward Models for RL in Math",
+    "date": "2024-10-15",
+    "source": "web"
+  },
+  {
+    "n": 13,
+    "id": "rewardmath",
+    "url": "https://rewardmath-rewardmath-project.static.hf.space/index.html",
+    "title": "Evaluating Robustness of Reward Models for Mathematical Reasoning (RewardMATH)",
+    "date": "n.d.",
+    "source": "web"
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "topic": "survey about world model",
+  "model": "gemini-3.5-flash-lite",
+  "elapsed_s": 140.3,
+  "subagent_calls": 4,
+  "tool_calls": {
+    "ls": 5,
+    "read_file": 5,
+    "write_todos": 2,
+    "task": 4,
+    "write_file": 2,
+    "execute": 2
+  },
+  "tokens": {
+    "input": 195387,
+    "output": 6154
+  },
+  "n_sources": 21,
+  "source_families": [
+    "arxiv",
+    "hf-search",
+    "web"
+  ]
+}

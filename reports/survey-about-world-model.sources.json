@@ -1,0 +1,170 @@
+[
+  {
+    "n": 1,
+    "id": "2301.04104",
+    "url": "https://arxiv.org/abs/2301.04104",
+    "title": "Mastering Diverse Domains through World Models",
+    "date": "2023-01-10",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2402.03570",
+    "url": "https://arxiv.org/abs/2402.03570",
+    "title": "Diffusion World Model: Future Modeling Beyond Step-by-Step Rollout for Offline Reinforcement Learning",
+    "date": "2024-02-05",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2402.15391",
+    "url": "https://arxiv.org/abs/2402.15391",
+    "title": "Genie: Generative Interactive Environments",
+    "date": "2024-02-23",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "2402.17177",
+    "url": "https://huggingface.co/papers/2402.17177",
+    "title": "Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models",
+    "date": "2024-02-27",
+    "source": "hf-search"
+  },
+  {
+    "n": 5,
+    "id": "2603.14482",
+    "url": "https://huggingface.co/papers/2603.14482",
+    "title": "V-JEPA 2.1: Unlocking Dense Features in Video Self-Supervised Learning",
+    "date": "2026-03-15",
+    "source": "hf-search"
+  },
+  {
+    "n": 6,
+    "id": "2502.00466",
+    "url": "https://huggingface.co/papers/2502.00466",
+    "title": "EDELINE: Enhancing Memory in Diffusion-based World Models via Linear-Time Sequence Modeling",
+    "date": "2025-02-01",
+    "source": "hf-search"
+  },
+  {
+    "n": 7,
+    "id": "2405.12399",
+    "url": "https://huggingface.co/papers/2405.12399",
+    "title": "Diffusion for World Modeling: Visual Details Matter in Atari (DIAMOND)",
+    "date": "2024-05-20",
+    "source": "hf-search"
+  },
+  {
+    "n": 8,
+    "id": "10.5555/3746171.3746627",
+    "url": "https://proceedings.mlr.press/v235/bruce24a.html",
+    "title": "Genie: Generative Interactive Environments",
+    "date": "2024-07-08",
+    "source": "web"
+  },
+  {
+    "n": 9,
+    "id": "2005.12126",
+    "url": "https://arxiv.org/abs/2005.12126",
+    "title": "Learning to Simulate Dynamic Environments with GameGAN",
+    "date": "2020-05-25",
+    "source": "web"
+  },
+  {
+    "n": 10,
+    "id": "2609.33264",
+    "url": "https://arxiv.org/abs/2609.33264",
+    "title": "VehDyn: A Driving World Model Benchmark for Vehicle Dynamics",
+    "date": "2026-09-27",
+    "source": "arxiv"
+  },
+  {
+    "n": 11,
+    "id": "2609.16074",
+    "url": "https://arxiv.org/abs/2609.16074",
+    "title": "World-Action Models for Robot Learning and Control: A Survey",
+    "date": "2026-09-13",
+    "source": "arxiv"
+  },
+  {
+    "n": 12,
+    "id": "2608.20111",
+    "url": "https://arxiv.org/abs/2608.20111",
+    "title": "Planning-Oriented End-to-End Autonomous Driving: Architectures, Evaluation, and Emerging Paradigms",
+    "date": "2026-08-20",
+    "source": "arxiv"
+  },
+  {
+    "n": 13,
+    "id": "2607.13704",
+    "url": "https://arxiv.org/abs/2607.13704",
+    "title": "nuTruck: Benchmarking Autonomous Driving Planning for Distributed Electric-drive Trucks",
+    "date": "2026-07-15",
+    "source": "arxiv"
+  },
+  {
+    "n": 14,
+    "id": "2606.14058",
+    "url": "https://arxiv.org/abs/2606.14058",
+    "title": "ReactSim-Bench: Benchmarking Reactive Behavior World Model Simulation in Autonomous Driving",
+    "date": "2026-06-12",
+    "source": "arxiv"
+  },
+  {
+    "n": 15,
+    "id": "2605.17912",
+    "url": "https://huggingface.co/papers/2605.17912",
+    "title": "WorldArena 2.0: Extending Embodied World Model Benchmarking on Modality, Functionality and Platform",
+    "date": "2026-05-18",
+    "source": "hf-search"
+  },
+  {
+    "n": 16,
+    "id": "2603.25887",
+    "url": "https://huggingface.co/papers/2603.25887",
+    "title": "WorldReason Arena",
+    "date": "2026-03-26",
+    "source": "hf-search"
+  },
+  {
+    "n": 17,
+    "id": "2502.20694",
+    "url": "https://huggingface.co/papers/2502.20694",
+    "title": "WorldModelBench: Judging Video Generation Models As World Models",
+    "date": "2025-02-28",
+    "source": "hf-search"
+  },
+  {
+    "n": 18,
+    "id": "2607.02642",
+    "url": "https://huggingface.co/papers/2607.02642",
+    "title": "GigaWorld-1: A Roadmap to Build World Models for Robot Policy Evaluation",
+    "date": "2026-07-02",
+    "source": "hf-search"
+  },
+  {
+    "n": 19,
+    "id": "2504.18904",
+    "url": "https://huggingface.co/papers/2504.18904",
+    "title": "RoboVerse: Towards a Unified Platform, Dataset and Benchmark for Scalable and Generalizable Robot Learning",
+    "date": "2025-04-26",
+    "source": "hf-search"
+  },
+  {
+    "n": 20,
+    "id": "CVPR2026/Liang_WorldLens",
+    "url": "https://openaccess.thecvf.com/content/CVPR2026/papers/Liang_WorldLens_Full-Spectrum_Evaluations_of_Driving_World_Models_in_Real_World_CVPR_2026_paper.pdf",
+    "title": "WorldLens: Full-Spectrum Evaluations of Driving World Models in Real World",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 21,
+    "id": "2605.29360",
+    "url": "https://arxiv.org/html/2605.29360",
+    "title": "MiraBench: Evaluating Action-Conditioned Reliability in Robotic World Models",
+    "date": "2026-05-29",
+    "source": "web"
+  }
+]

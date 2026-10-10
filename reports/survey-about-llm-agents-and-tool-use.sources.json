@@ -1,0 +1,194 @@
+[
+  {
+    "n": 1,
+    "id": "2511.17840",
+    "url": "https://arxiv.org/abs/2511.17840",
+    "title": "Internalizing Tools as Morphisms in Graded Transformers",
+    "date": "2025-11-21",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2205.00445",
+    "url": "https://arxiv.org/abs/2205.00445",
+    "title": "MRKL Systems: A modular, neuro-symbolic architecture that combines large language models, external knowledge sources and discrete reasoning",
+    "date": "2022-05-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2608.02650",
+    "url": "https://huggingface.co/papers/2608.02650",
+    "title": "HyperAgent: Planning and Acting over Tool-Schema Hypergraphs for Tool-Use LLM Agents",
+    "date": "2026-07-31",
+    "source": "hf-search"
+  },
+  {
+    "n": 4,
+    "id": "2609.35811",
+    "url": "https://arxiv.org/abs/2609.35811",
+    "title": "Lookahead-R: Budget-Aware Tool Retrieval via Execution-Centric Planning",
+    "date": "2026-09-20",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "2609.09395",
+    "url": "https://arxiv.org/abs/2609.09395",
+    "title": "The Menu Is an Execution Prior: State-Path Tool Menus for Online Agents",
+    "date": "2026-09-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "2606.05670",
+    "url": "https://huggingface.co/papers/2606.05670",
+    "title": "Do More Agents Help? Controlled and Protocol-Aligned Evaluation of LLM Agent Workflows",
+    "date": "2026-06-04",
+    "source": "hf-search"
+  },
+  {
+    "n": 7,
+    "id": "2411.04468",
+    "url": "https://arxiv.org/abs/2411.04468",
+    "title": "Magentic-One: A Generalist Multi-Agent System for Solving Complex Tasks",
+    "date": "2024-11-07",
+    "source": "arxiv"
+  },
+  {
+    "n": 8,
+    "id": "2602.10453",
+    "url": "https://arxiv.org/abs/2602.10453",
+    "title": "The Landscape of Prompt Injection Threats in LLM Agents: From Taxonomy to Analysis",
+    "date": "2026-02-11",
+    "source": "arxiv"
+  },
+  {
+    "n": 9,
+    "id": "2610.11169",
+    "url": "https://huggingface.co/papers/2610.11169",
+    "title": "Skill Constellations: Tracing the Supply Chain of Agent Skills on GitHub",
+    "date": "2026-10-08",
+    "source": "hf-daily"
+  },
+  {
+    "n": 10,
+    "id": "2602.20156",
+    "url": "https://huggingface.co/papers/2602.20156",
+    "title": "Skill-Inject: Measuring Agent Vulnerability to Skill File Attacks",
+    "date": "2026-02-23",
+    "source": "hf-search"
+  },
+  {
+    "n": 11,
+    "id": "2610.12375",
+    "url": "https://arxiv.org/abs/2610.12375",
+    "title": "OnTrack: Real-Time Monitoring and Intervention in LLM Agent Trajectories via Streaming Structure-Aware Optimal Transport",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 12,
+    "id": "2406.05804",
+    "url": "https://arxiv.org/abs/2406.05804",
+    "title": "A Review of Prominent Paradigms for LLM-Based Agents: Tool Use (Including RAG), Planning, and Feedback Learning",
+    "date": "2024-06-09",
+    "source": "web"
+  },
+  {
+    "n": 13,
+    "id": "2404.11584",
+    "url": "https://arxiv.org/abs/2404.11584",
+    "title": "The Landscape of Emerging AI Agent Architectures",
+    "date": "2024-04-17",
+    "source": "web"
+  },
+  {
+    "n": 14,
+    "id": "2511.03690",
+    "url": "https://huggingface.co/papers/2511.03690",
+    "title": "The OpenHands Software Agent SDK: A Composable and Extensible Foundation for Production Agents",
+    "date": "2025-11-05",
+    "source": "hf-search"
+  },
+  {
+    "n": 15,
+    "id": "2602.03411",
+    "url": "https://huggingface.co/papers/2602.03411",
+    "title": "SWE-Master: Unleashing the Potential of Software Engineering Agents via Post-Training",
+    "date": "2026-02-03",
+    "source": "hf-search"
+  },
+  {
+    "n": 16,
+    "id": "2606.12344",
+    "url": "https://huggingface.co/papers/2606.12344",
+    "title": "Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks",
+    "date": "2026-06-10",
+    "source": "hf-search"
+  },
+  {
+    "n": 17,
+    "id": "2610.04168",
+    "url": "https://arxiv.org/abs/2610.04168",
+    "title": "Agentic Cognitive Depth: Operational Criteria for Evaluating LLM Agents",
+    "date": "2026-10-03",
+    "source": "arxiv"
+  },
+  {
+    "n": 18,
+    "id": "2505.23419",
+    "url": "https://huggingface.co/papers/2505.23419",
+    "title": "SWE-bench Goes Live!",
+    "date": "2025-05-29",
+    "source": "hf-search"
+  },
+  {
+    "n": 19,
+    "id": "n.d.",
+    "url": "https://www.coddykit.com/courses/ai_agents_basic/benchmark-suites-swe-bench-gaia-toolbench-4256074",
+    "title": "Benchmark Suites: SWE-Bench, GAIA, ToolBench — AI Agents",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 20,
+    "id": "2601.11044",
+    "url": "https://huggingface.co/papers/2601.11044",
+    "title": "AgencyBench: Benchmarking the Frontiers of Autonomous Agents in 1M-Token Real-World Contexts",
+    "date": "2026-01-16",
+    "source": "hf-search"
+  },
+  {
+    "n": 21,
+    "id": "2610.08668",
+    "url": "https://arxiv.org/abs/2610.08668",
+    "title": "Semantic Behavioral Watermarking: Paraphrase-Robust and Forgery-Resistant Provenance for LLM Agents",
+    "date": "2026-10-06",
+    "source": "arxiv"
+  },
+  {
+    "n": 22,
+    "id": "2606.10749",
+    "url": "https://arxiv.org/abs/2606.10749",
+    "title": "Toward Secure LLM Agents: Threat Surfaces, Attacks, Defenses, and Evaluation",
+    "date": "2026-06-10",
+    "source": "arxiv"
+  },
+  {
+    "n": 23,
+    "id": "2512.12594",
+    "url": "https://huggingface.co/papers/2512.12594",
+    "title": "ceLLMate: Sandboxing Browser AI Agents",
+    "date": "2026-03-04",
+    "source": "hf-search"
+  },
+  {
+    "n": 24,
+    "id": "2610.08951",
+    "url": "https://arxiv.org/abs/2610.08951",
+    "title": "ASPIRE: Agentic Safety & Prompt Injection Red-teaming Engine",
+    "date": "2026-10-06",
+    "source": "arxiv"
+  }
+]

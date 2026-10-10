@@ -1,0 +1,130 @@
+[
+  {
+    "n": 1,
+    "id": "n.d.",
+    "url": "https://dl.acm.org/doi/full/10.1145/3768165",
+    "title": "A Comprehensive Survey of Small Language Models in the Era of Large Language Models",
+    "date": "2025-11-24",
+    "source": "web"
+  },
+  {
+    "n": 2,
+    "id": "2608.11981",
+    "url": "https://arxiv.org/abs/2608.11981",
+    "title": "Benchmarking Trustworthiness of SLMs: Pre-trained vs. Compressed",
+    "date": "2026-08-12",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2407.14679",
+    "url": "https://huggingface.co/papers/2407.14679",
+    "title": "Compact Language Models via Pruning and Knowledge Distillation",
+    "date": "2024-07-19",
+    "source": "hf-daily"
+  },
+  {
+    "n": 4,
+    "id": "2609.04102",
+    "url": "https://arxiv.org/abs/2609.04102",
+    "title": "Compressing Streaming Neural Audio Encoders via Latent-Space Distillation",
+    "date": "2026-09-03",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "2504.12285v2",
+    "url": "https://arxiv.org/abs/2504.12285v2",
+    "title": "BitNet b1.58 2B4T Technical Report",
+    "date": "n.d.",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "2606.26650",
+    "url": "https://huggingface.co/papers/2606.26650",
+    "title": "CAT-Q: Cost-efficient and Accurate Ternary Quantization for LLMs",
+    "date": "2026-06-25",
+    "source": "hf-daily"
+  },
+  {
+    "n": 7,
+    "id": "aclanthology.org/2025.acl-long.457.pdf",
+    "url": "https://aclanthology.org/2025.acl-long.457.pdf",
+    "title": "Bitnet.cpp: Efficient Edge Inference for Ternary LLMs",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 8,
+    "id": "2609.23130",
+    "url": "https://arxiv.org/abs/2609.23130",
+    "title": "From Inference Engine to Inference Control Plane: Connecting vLLM, llm-d, and the Evolution of Efficient Distributed LLM Serving",
+    "date": "2026-09-19",
+    "source": "arxiv"
+  },
+  {
+    "n": 9,
+    "id": "aclanthology.org/2026.findings-acl.1916.pdf",
+    "url": "https://aclanthology.org/2026.findings-acl.1916.pdf",
+    "title": "A Survey on System-Aware KV Cache Optimization",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 10,
+    "id": "2609.03494",
+    "url": "https://arxiv.org/abs/2609.03494",
+    "title": "GrowPage: On-Demand KV Budgeting for Efficient LLM Reasoning Serving",
+    "date": "2026-09-03",
+    "source": "arxiv"
+  },
+  {
+    "n": 11,
+    "id": "2610.03135",
+    "url": "https://arxiv.org/abs/2610.03135",
+    "title": "Page-EntroKV: Hardware-Aligned, Entropy-Weighted KV-Cache Eviction under Grouped-Query Attention",
+    "date": "2026-10-02",
+    "source": "arxiv"
+  },
+  {
+    "n": 12,
+    "id": "2405.14256",
+    "url": "https://huggingface.co/papers/2405.14256",
+    "title": "ZipCache: Accurate and Efficient KV Cache Quantization with Salient Token Identification",
+    "date": "2024-05-23",
+    "source": "hf-search"
+  },
+  {
+    "n": 13,
+    "id": "aclanthology.org/2026.findings-acl.381.pdf",
+    "url": "https://aclanthology.org/2026.findings-acl.381.pdf",
+    "title": "Zipage: Maintain High Request Concurrency for LLM Reasoning through Compressed PagedAttention",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 14,
+    "id": "2608.05926",
+    "url": "https://arxiv.org/abs/2608.05926",
+    "title": "BALANCE: Hybrid Autoregressive-Speculative LLM Inference at the Network Edge",
+    "date": "2026-08-06",
+    "source": "arxiv"
+  },
+  {
+    "n": 15,
+    "id": "2609.09166",
+    "url": "https://arxiv.org/abs/2609.09166",
+    "title": "X-CoSD: Communication-Efficient Cross-Vocabulary Collaborative Speculative Decoding",
+    "date": "2026-07-15",
+    "source": "arxiv"
+  },
+  {
+    "n": 16,
+    "id": "2502.10424",
+    "url": "https://huggingface.co/papers/2502.10424",
+    "title": "QuantSpec: Self-Speculative Decoding with Hierarchical Quantized KV Cache",
+    "date": "2025-02-05",
+    "source": "hf-search"
+  }
+]
